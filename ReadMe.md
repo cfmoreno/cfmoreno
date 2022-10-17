@@ -2,7 +2,7 @@
 I'm Carlos, a Mechanical Engineer with a big passion for computers, cars and videogames.<br><br>Passionate about using data to solve real world problems and learning new stuff everyday.<br><br>Feel free to reach me out at my page https://cfmoreno.github.io/ if you have any questions or just want to say hi!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/cfmoreno) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cfmoreno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cfmoreno) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cfmoreno) 
 
 # 💻 Tech Stack:

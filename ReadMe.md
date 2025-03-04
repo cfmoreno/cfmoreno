@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm Carlos, a Mechanical Engineer with a big passion for computers, cars and videogames.<br><br>Passionate about using data to solve real world problems and learning new stuff everyday.
+I'm Carlos, an Engineer with a big passion for computers, cars and videogames.<br><br>Passionate about using data to solve real world problems and learning new stuff everyday.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cfmoreno) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cfmoreno) 
